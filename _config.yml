@@ -1,0 +1,28 @@
+name: Trippy Pix
+favicon: null
+layout_spectrum: 0.3777365321293473
+typography_spectrum: 0.4877358698286116
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.43095251312479377
+  lightness: 0.6792362979613245
+  saturation: 0.6851201984100044
+  rhythmicContrast: 0.3803563918918371
+purpose: []
